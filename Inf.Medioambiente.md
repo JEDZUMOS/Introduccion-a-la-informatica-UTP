@@ -1,4 +1,4 @@
-*H1*El uso de la informatica en el medio ambiente*H1*
+<H1>El uso de la informatica en el medio ambiente<H1/>
 
 La tecnologia ha ayudado durante el paso del tiempo a la humanidad y con ello tambien ha ayudado en
 el sector ambiental y tambien ha sido uso de contaminacion por parte de los hombres descechando
